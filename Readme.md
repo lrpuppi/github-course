@@ -3,3 +3,7 @@
 Este é um repositório teste.
 
 Saiba mais em:...
+
+
+
+TEste de comparação de arquivo.
