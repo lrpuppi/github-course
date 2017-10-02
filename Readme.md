@@ -1,9 +1,6 @@
 #Git Course
 
-Este é um repositório teste.
-
-Saiba mais em:...
+This is a test repository.
 
 
 
-TEste de comparação de arquivo.
