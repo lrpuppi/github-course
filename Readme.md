@@ -2,5 +2,8 @@
 
 This is a test repository.
 
-v1.0.5
+[![.github/workflows/basic.yml](https://github.com/lrpuppi/github-course/actions/workflows/basic.yml/badge.svg)](https://github.com/lrpuppi/github-course/actions/workflows/basic.yml)
+
+
+v1.0.6
 
